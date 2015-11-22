@@ -1,0 +1,3 @@
+I saw a list of projects, and I want to do some of them....
+English: http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/
+Chinese: http://blog.jobbole.com/49762/
