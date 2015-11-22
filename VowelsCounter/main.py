@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def getTimes(times):
     if times < 0:
         raise AttributeError('The attribute `times` cannot be less then 0')
